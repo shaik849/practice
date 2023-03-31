@@ -3,4 +3,4 @@ const {postData} = require('../Controller/practiceController')
 
 router.post('/',  postData)
 
-module.exports = router;
+module.exports = router ;
